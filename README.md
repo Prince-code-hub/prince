@@ -1,2 +1,2 @@
 # prince
-Hii, My name is Prince.
+Hello, My name is Prince.
